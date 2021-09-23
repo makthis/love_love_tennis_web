@@ -1,0 +1,7 @@
+#! /bin/zsh
+
+cp -rf ~/src/tennis_over_40/build/web/*.* ~/src/love_love_tennis_web/
+
+MSG=$1
+
+gitDone "$MSG"
