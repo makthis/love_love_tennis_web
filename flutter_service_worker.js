@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "aefbe90771d884b3e024e9baa624abad",
+  "assets/AssetManifest.json": "d4e3704dcce9c8561ff798249b4058b8",
 "assets/assets/images/adeline.jpg": "20e4b26f8cac606f7bb68a57a23a84d6",
 "assets/assets/images/landing/01.png": "d0fbb408b07186efbaf22a11eca0aaf0",
 "assets/assets/images/landing/02.png": "26cbe79dda13dd86d0435ffc37a291fe",
@@ -15,6 +15,7 @@ const RESOURCES = {
 "assets/assets/logo/boutique.png": "0c4d1504bdcf560d6ef5cd35b533536f",
 "assets/assets/logo/love_notes.png": "d7b747cd4dc02a4a851cb11c149654ad",
 "assets/assets/logo/main_logo.png": "af1ee841858957321529dddace99e559",
+"assets/assets/logo/main_logo_white.png": "f0119af76abeffb3d578522a8303047c",
 "assets/assets/logo/my_schedule.png": "820ef360dff5106979ab092812981291",
 "assets/assets/logo/play_tennis.png": "93d9002df0d9a925072c009ab17a3ada",
 "assets/assets/logo/results.png": "74c213d185772a2d61625869c3786e14",
@@ -48,9 +49,9 @@ const RESOURCES = {
 "favicon.png": "920e01e70326ff12804686006aa2b609",
 "icons/Icon-192.png": "bfcf07227f0b91503971d763566ca4b5",
 "icons/Icon-512.png": "62c8393b0791f8c98cf386d8c1988c07",
-"index.html": "62b4dcc950dea22f3352b5d43a3bb4b4",
-"/": "62b4dcc950dea22f3352b5d43a3bb4b4",
-"main.dart.js": "435fd0bccea0b181e86e8d96cabda49b",
+"index.html": "442790d8845f7db8a6b5e4e3abf93e8e",
+"/": "442790d8845f7db8a6b5e4e3abf93e8e",
+"main.dart.js": "2dc011aab9b3110078bf72c7c85f045d",
 "manifest.json": "bc285b1ae467d3ace39a21b43ce385a2",
 "version.json": "b766e645505ca813c5758ab00b87e2ad"
 };
